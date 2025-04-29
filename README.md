@@ -9,4 +9,5 @@ Enregistrement des scores : Les scores de l'utilisateur sont calculés à la fin
 Nom de l'utilisateur : Lors du démarrage du jeu, l'utilisateur peut entrer son nom, qui est conservé pendant la session.
 Ce projet a été développé en langage C. Ceci a été testé et développé sous Code::Blocks.
 Bibliothèques utilisées : main.c, scores.c.
-git clone: https://github.com/votre-username/tp-langage-c.git
+git clone https://github.com/chellat_laeticia/tp-langage-c.git
+
