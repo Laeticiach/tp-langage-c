@@ -10,6 +10,6 @@ Nom de l'utilisateur : Lors du démarrage du jeu, l'utilisateur peut entrer son 
 Ce projet a été développé en langage C. Ceci a été testé et développé sous Code::Blocks.
 Bibliothèques utilisées : main.c, scores.c.
 
-https://github.com/CHELLAT-LAETICIA/tp-langage-c
+https://github.com/Laeticiach/tp-langage-c
 
 
